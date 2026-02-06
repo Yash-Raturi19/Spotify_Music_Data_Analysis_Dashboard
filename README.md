@@ -10,6 +10,7 @@ The goal of this project was to transform raw Spotify dataset into a meaningful 
 Using Power BI, I built a dashboard that enables users to explore song metrics, artist contributions, album types, and popularity insights through dynamic filters and visuals.
 
 📊 Dashboard Features
+
 🔹 Overall popularity and song ranking 
 analysis
 
